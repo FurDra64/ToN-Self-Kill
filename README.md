@@ -1,3 +1,10 @@
+# yussy様のToNRoundCounterに統合されました。
+ToNRoundCounterでは、VRでの自殺、特定ラウンドでの自動自殺、ウィンドウの自動フォーカスの修正が全て実装されました。  
+素晴らしいアプリですので、ぜひお使いください！  
+https://yussy.booth.pm/items/6589148  
+一緒に開発できて楽しかったです！ありがとうございました！
+
+---
 # ToN-Self-Kill
 Add a button that allows you to kill yourself while playing “Terror of Nowhere” in VR.  
 VRでTerror of Nowhereをプレイ中に自殺出来るボタンを追加するツールです。  
